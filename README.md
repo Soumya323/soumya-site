@@ -1,3 +1,2 @@
 # Soumya Portfolio
-
-This project I am creating a portfolio for me.
+### Hey, I am building it as an project which will end up showing all my works at one place.
